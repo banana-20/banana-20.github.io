@@ -6,7 +6,7 @@ I am interested in game develop and game design.
 
 Contact me [on My facebook ](https://www.facebook.com/profile.php?id=100005243828846).
 
-<img src="images/team.jpg" width="375">
+<img src="images/team.jpg" width="350">
 
 ## Activity
 ### ML AGENTS form Unityhub
