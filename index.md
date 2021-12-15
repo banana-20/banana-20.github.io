@@ -25,8 +25,8 @@ Contact me [on My facebook ](https://www.facebook.com/profile.php?id=10000524382
 ### Visual Novel Game
 
 <p float="left">
-  <img src="images/.jpg" width="300">
-  <img src="images/.jpg" width="300">
+  <img src="images/VN1.jpg" width="300">
+  <img src="images/VN2.jpg" width="300">
 </p> 
 
 ```markdown
