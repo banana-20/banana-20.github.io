@@ -17,10 +17,7 @@ Contact me [on My facebook ](https://www.facebook.com/profile.php?id=10000524382
   <img src="images/.jpg" width="300">
 </p>  
 
-```markdown
 -M
--
-```
 
 ### Visual Novel Game
 
@@ -29,6 +26,5 @@ Contact me [on My facebook ](https://www.facebook.com/profile.php?id=10000524382
   <img src="images/VN2.jpg" width="300">
 </p> 
 
-```markdown
 - Mystery and Horror Game
-```
+
