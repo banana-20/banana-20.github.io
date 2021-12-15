@@ -4,9 +4,6 @@ My name is Thanuttha Kaeokarn
 
 I am interested in game develop and game design.
 
-[Link](url) and ![Image](src)
-
-
 ![team](/images/team.jpg)
 
 ```markdown
