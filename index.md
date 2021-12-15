@@ -4,7 +4,8 @@ My name is Thanuttha Kaeokarn
 
 I am interested in game develop and game design.
 
-![team](/images/team.jpg =100x20)
+![team](/images/team.jpg){ width=50% }
+
 
 ```markdown
 ความสนใจของผมเกี่ยวกับ AI ที่เป็น Machine Learning
