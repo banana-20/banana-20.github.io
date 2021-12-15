@@ -4,10 +4,12 @@ My name is Thanuttha Kaeokarn
 
 I am interested in game develop and game design.
 
-![team](/images/team.jpg)
+![team](/images/team.jpg) =100x20)
 
 ```markdown
-
+ความสนใจของผมเกี่ยวกับ AI ที่เป็น Machine Learning
+ผมได้สนใจในพัฒนา AI ที่เรียนรู้ได้ด้วยตัวเองได้ผมได้ทดลองทำ AI ที่เป็น ML AGENTS ที่ทำใน UNITYHUB เป็น ENGING 
+ที่ใช้พัฒนาเกมและทำ AI ได้ผมที่สนใจก็ได้ไปดูตัวอย่าง ML AGNETS ที่เขามีตัวอย่างมาให้มาลองศึกษาและได้ทดลองทำเอง
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
