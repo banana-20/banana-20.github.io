@@ -8,7 +8,6 @@ Contact me [on My facebook ](https://www.facebook.com/profile.php?id=10000524382
 
 <img src="images/team.jpg" width="450">
 
-
 ## Activity
 ### ML AGENTS form Unityhub
 
