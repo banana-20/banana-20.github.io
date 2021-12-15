@@ -4,7 +4,7 @@ My name is Thanuttha Kaeokarn
 
 I am interested in game develop and game design.
 
-<img src="images/team.jpg" width="200">
+<img src="images/team.jpg" width="450">
 
 
 ```markdown
