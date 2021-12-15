@@ -12,8 +12,8 @@ Contact me [on My facebook ](https://www.facebook.com/profile.php?id=10000524382
 ### ML AGENTS form Unityhub
 
 <p float="left">
-  <img src="images/.jpg" width="300">
-  <img src="images/.jpg" width="300">
+  <img src="images/ML1.jpg" width="300">
+  <img src="images/ML2.jpg" width="300">
 </p>  
 
 -M
