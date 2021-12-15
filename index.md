@@ -1,10 +1,10 @@
 ## MY Proflie 
 
-Contact me [on My facebook ](https://www.facebook.com/profile.php?id=100005243828846).
-
 My name is Thanuttha Kaeokarn
 
 I am interested in game develop and game design.
+
+Contact me [on My facebook ](https://www.facebook.com/profile.php?id=100005243828846).
 
 <img src="images/team.jpg" width="450">
 
